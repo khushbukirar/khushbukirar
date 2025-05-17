@@ -1,0 +1,19 @@
+/* home.css: page-specific styles */
+
+section {
+    padding: 3rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+section h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+ul {
+    padding-left: 1.2rem;
+}
+
+ul li {
+    margin-bottom: 0.8rem;
+}

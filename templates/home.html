@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Home | Khushbu Kirar{% endblock %}
+{% block content %}
+<link rel="stylesheet" href="{% static 'css/home.css' %}">
+<section id="about">
+    <div class="container">
+        <h2>About Me</h2>
+        <p>I’m a passionate full-stack developer with experience in Django, JavaScript, and WordPress.</p>
+    </div>
+</section>
+
+<section id="projects">
+    <div class="container">
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>MyPortfolio:</strong> Personal site with Django.</li>
+            <li><strong>Blogify:</strong> Custom blog with Bootstrap.</li>
+            <li><strong>ShopNow:</strong> E-commerce with Stripe.</li>
+        </ul>
+    </div>
+</section>
+
+<section id="contact">
+    <div class="container">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:khushbukirar93493@gmail.com">khushbukirar93493@gmail.com</a></p>
+        <p>GitHub: <a href="https://github.com/khushbukirar" target="_blank">github.com/khushbukirar</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/khushbu-kirar-190678209/" target="_blank">Your LinkedIn</a></p>
+    </div>
+</section>
+{% endblock %}
