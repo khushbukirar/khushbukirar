@@ -1,6 +1,6 @@
 # 👩‍💻 Khushbu Kirar – Full-Stack Web Developer & Automation Specialist
 
-Welcome to my portfolio repository! I'm Khushbu Kirar, a passionate full-stack web developer with experience in building dynamic websites, full-featured web applications, and smart automation systems. This repo contains my work samples, projects, and demos that showcase my capabilities as a freelance developer.
+I'm Khushbu Kirar, a passionate full-stack web developer with experience in building dynamic websites, full-featured web applications, and smart automation systems. This repo contains my work samples, projects, and demos that showcase my capabilities as a freelance developer.
 
 ---
 
